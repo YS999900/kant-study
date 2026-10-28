@@ -8,3 +8,7 @@ git init
 git add . 
 git add -A
 ```
+
+```bash
+# commit
+git commit -m  "커밋 메세지..."
